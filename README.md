@@ -1,6 +1,8 @@
 # MechaCar Statistical Analysis
 
-## Linear Regression to Predict MPG (write a short summary using a screenshot of the output from the linear regression)
+### Linear Regression to Predict MPG
+
+#### Output in RStudio Console
 
 ![this is image](https://github.com/krisnagoda/MechaCar_Statistical_Analysis/blob/0af4aaf7583d821032e32446189bb38d50357695/R_linear_regression.png)
 
